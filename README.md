@@ -3,12 +3,12 @@
 ## Screenshots
 
 <p float="left">
-  <img src="https://drive.google.com/uc?id=1aaWX2pL5O6yjVxWilLkoz12X1nwUALZu" width="200" />
-  <img src="https://drive.google.com/uc?id=1aRNXv7aNxekNTIrP5BYyCU0mBCKSUotq" width="200" />
-  <img src="https://drive.google.com/uc?id=1a_gAR8uz_Uhq_IdIhbx6hcrLiAiAfFLT" width="200" />
-  <img src="https://drive.google.com/uc?id=1aUZTdXLate7H3hSLEfwOdui489CedDwc" width="200" />
-  <img src="https://drive.google.com/uc?id=1admdBf4-1ExBgy58UBaFFHXN5ECPY0WC" width="200" />
-  <img src="https://drive.google.com/uc?id=1aiPjoguX3gGwpWbNL0pUR-cFgSA9FY3v" width="200" />
+  <img src="https://drive.google.com/uc?id=1aaWX2pL5O6yjVxWilLkoz12X1nwUALZu" width="150" />
+  <img src="https://drive.google.com/uc?id=1aRNXv7aNxekNTIrP5BYyCU0mBCKSUotq" width="150" />
+  <img src="https://drive.google.com/uc?id=1a_gAR8uz_Uhq_IdIhbx6hcrLiAiAfFLT" width="150" />
+  <img src="https://drive.google.com/uc?id=1aUZTdXLate7H3hSLEfwOdui489CedDwc" width="150" />
+  <img src="https://drive.google.com/uc?id=1admdBf4-1ExBgy58UBaFFHXN5ECPY0WC" width="150" />
+  <img src="https://drive.google.com/uc?id=1aiPjoguX3gGwpWbNL0pUR-cFgSA9FY3v" width="150" />
 </p>
 
 ## Table of Contents
@@ -49,9 +49,10 @@ To get started with the Neumorphic To-Do List, follow these steps:
    git clone https://github.com/akashikurokage28/neumorphic-todo-list.git
 
 2. Navigate to the project directory:
+   ```bash
    cd neumorphic-todo-list
 
-3. Open **index.html** in your web browser.
+4. Open **index.html** in your web browser.
 
 ## Usage
 1. Open the application in your web browser.
@@ -67,17 +68,20 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 
 1. Fork the project
 2. Create your feature branch:
+   ```bash
    git checkout -b feature/YourFeature
-3. Commit your changes:
+4. Commit your changes:
+   ```bash
    git commit -m 'Add some feature'
-4. Push to the branch:
+6. Push to the branch:
+   ```bash
    git push origin feature/YourFeature
-5. Open a Pull Request
+8. Open a Pull Request
 
 ## Contact
 For any inquiries or feedback, feel free to reach out:
 
-**Name:** Abdulaziz Madatel
-**Email:** abdulazizmadatel28@gmail.com
-**GitHub:** akashikurokage28
+**Name:** Abdulaziz Madatel  
+**Email:** abdulazizmadatel28@gmail.com  
+**GitHub:** akashikurokage28  
 **Live Demo:** [Neumorphic To-Do List](https://neumorphic-todo-list.vercel.app/)
